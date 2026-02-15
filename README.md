@@ -1,5 +1,5 @@
 # -Spectral-Three-Term-Conjugate-Gradient-Projection-Method-STTCGPM-
-# Aditya
+
 
 ## Overview
 This repository contains benchmark problems and application-driven test cases for evaluating **derivative-free, descent-based, and iterative algorithms** for solving **nonlinear equations and optimization problems**.  
@@ -33,22 +33,9 @@ Includes nonlinear equations satisfying weaker conditions such as:
 Focuses on **decentralized / distributed logistic regression problems**, where:
 
 
----
-
-### Image_restoration_problem
-- Image deblurring
-
-
----
-
 ### Sparse_Signal_Recovery
 Deals with sparse recovery and compressed sensing problems, such as:
 - Sparse nonlinear equations
 - ℓ₁-regularized models
-- Signal reconstruction from limited measurements
 
 
----
-
-## Notes
-- Each folder contains its own `README.md` describing the specific problem formulation.
